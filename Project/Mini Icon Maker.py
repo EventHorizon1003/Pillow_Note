@@ -1,5 +1,5 @@
-# name: Mini_Icon_Maker
-# product a transparent grey text in jpg format
+# name: Mini Icon Maker
+# product a transparent grey text in png format
 
 from PIL import Image, ImageDraw
 from PIL import ImageFont
